@@ -1,0 +1,28 @@
+html, body {
+  width: 100%;
+  height: 100%;
+  font-family: "microsoft yahei","黑体","宋体",Tahoma,Verdana,Arial,Helvetica,sans-serif;
+  font-size: 100%;
+}
+
+#title {
+	font-family:	"microsoft yahei";
+}
+
+#myNav {
+	position:relative;
+	top:10px;
+}
+
+.footer-links {
+    margin: 10px 0px;
+    padding-left: 0px;
+}
+
+.footer-links li:first-child {
+    padding-left: 0px;
+}
+.footer-links li {
+    display: inline;
+    padding: 0px 2px;
+}
